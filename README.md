@@ -10,7 +10,7 @@ Movie App using (TMDB API)
 ## 🔗 Links
 
 - Live: https://incomparable-quokka-b46fcb.netlify.app
-- Code: https://github.com/ReynoldArun09/movie-app
+- Code: https://github.com/ReynoldArun09/React-Firebase-Movie-app
 
 ## Table of Contents
 
