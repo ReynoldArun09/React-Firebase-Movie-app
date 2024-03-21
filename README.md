@@ -9,8 +9,8 @@ Movie App using (TMDB API)
 
 ## 🔗 Links
 
-- Live:
-- Code:
+- Live: https://incomparable-quokka-b46fcb.netlify.app
+- Code: https://github.com/ReynoldArun09/movie-app
 
 ## Table of Contents
 
