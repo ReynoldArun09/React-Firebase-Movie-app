@@ -1,6 +1,4 @@
-# Project Title
-
-Movie App using (TMDB API)
+# Movie App using (TMDB API)
 
 ## Tech Stack
 
